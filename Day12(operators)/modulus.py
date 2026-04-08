@@ -1,0 +1,32 @@
+# MODULUS OPERATOR
+
+a = 11
+b = 2
+print(a%b)
+
+a = 10
+b = 2
+print(a%b)
+
+
+# WAP TO DISPLAY LAST DIGIT FROM GIVEN NUMBER
+
+num = 7684568
+print(num%10)
+
+
+# WAP TO DISPLAY LAST 2 DIGITS FROM GIVEN NUMBER
+
+num = 7684568
+print(num%100)
+
+
+# WAP TO DISPLAY LAST 4 DIGITS FROM GIVEN NUMBER
+
+num = 7684568
+print(num%10000)
+
+
+
+
+

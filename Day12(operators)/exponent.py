@@ -1,0 +1,3 @@
+# EXPONENT OPERATOR
+
+print(2**3)
